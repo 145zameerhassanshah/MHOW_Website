@@ -1,0 +1,217 @@
+body,
+.donations-three__item,
+.donations-three__item__bottom,
+.country-one__item,
+.pricing-one__card,
+.service-two__item,
+.donate-two__inner,
+.video-two__wrapper,
+.topbar-one,
+.topbar-one__bottom__button,
+.topbar-one__bottom__inner,
+.funfact-one__list.list-unstyled,
+.donate-one__image,
+.service-one__item,
+.team-card__image::after,
+.testimonials-card,
+.testimonials-one__image .slick-arrow,
+.country-one__carousel.owl-carousel .owl-nav button,
+.donations-three__carousel.owl-carousel .owl-nav button,
+.feature-one__item,
+.main-slider-one__item,
+.demo-one,
+.donate-info__area,
+.feature-one__item__number,
+body.boxed-wrapper .page-wrapper {
+  background-color: var(--careox-black2);
+}
+
+.main-header--four.sticky-header--cloned,
+.main-header--four,
+.donate-three__support__content,
+.donate-three__form__buttons__item,
+.pricing-one__card__top,
+.country-one,
+.donate-info__form__buttons__item,
+.donate-info__form input,
+.feature-two__item__number,
+.feature-two__item__inner,
+.service-two,
+.faq-one__accordion .accrodion,
+.tab-one__list li,
+.donate-two__form__buttons__item,
+.team-card-two__content,
+.service-three,
+.team-card,
+.feature-one,
+.donations-one__item__rm:hover,
+.donations-one__item__bottom,
+.team-card::after,
+.demo-one__card,
+.testimonials-one__bg,
+.donations-one__carousel.owl-carousel .owl-nav button,
+.service-one,
+.info__wrapper {
+  background-color: var(--careox-black);
+}
+
+body {
+  color: var(--careox-text-gray);
+}
+
+.testimonials-card__image,
+.testimonials-one__image__item,
+.about-one__image__two img {
+  border-color: var(--careox-black2);
+}
+
+.about-four__content__border,
+.donations-three__item__border,
+.benefit-one__right::before,
+.benefit-one__right::after,
+.donate-info__area__progress__bar,
+.donations-one__item__bottom__progress,
+.about-one__content__border,
+.info__wrapper li:not(:first-of-type)::before {
+  background-color: rgba(var(--careox-white-rgb), 0.1);
+}
+
+.donations-three__item,
+.benefit-one__right,
+.pricing-one__card,
+.about-two__wrapper,
+.service-two__item__rm,
+.tab-one__list__icon,
+.tab-one__content__box,
+.tab-one__content,
+.testimonials-two__wrapper,
+.donate-two__text,
+.donate-two__inner,
+.team-card-two__image,
+.service-three__item,
+.service-three__item__rm,
+.donate-info__area__progress,
+.client-carousel,
+.donations-one__item__content,
+.service-one__item::after,
+.service-one__item__rm,
+.funfact-one__content,
+.blog-card--reverse .blog-card__content,
+.blog-card__meta li:not(:first-of-type),
+.blog-card__meta,
+.blog-card__content {
+  border-color: rgba(var(--careox-white-rgb), 0.1);
+}
+
+.donate-info__left::after {
+  background-color: rgba(var(--careox-black-rgb), 0.88);
+}
+
+.main-slider-one__shape-one img,
+.testimonials-card__quote,
+.service-one__shape-two {
+  opacity: 0.1;
+}
+
+.main-slider-one__btn .video-popup {
+  color: var(--careox-black);
+}
+
+.main-slider-one__btn .video-popup {
+  background-color: var(--careox-white);
+}
+
+.main-header--four .main-header__cart,
+.main-header--four .main-header__search,
+.about-four__content__progress__text,
+.donations-three__item__bottom__text,
+.donations-three__carousel.owl-carousel .owl-nav button,
+.donate-three__form__buttons__item,
+.donations-three__text,
+.country-one__carousel.owl-carousel .owl-nav button,
+.country-one__item__rm,
+.donate-info__form__buttons__item,
+.donate-info__form__amount__sign,
+.donate-info__form input,
+.faq-one__accordion .accrodion-title h4,
+.faq-one__text,
+.tab-one__list li,
+.donate-two__form__buttons__item,
+.service-three__item__rm,
+.service-three__text,
+.megamenu-popup .megamenu-clickable--close,
+.demo-one__title,
+.donate-info__area__progress__text,
+.testimonials-one__image .slick-arrow,
+.donations-one__item__bottom__text,
+.donations-one__carousel.owl-carousel .owl-nav button,
+.service-one__item__rm,
+.about-one__text,
+.blog-card__link,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--careox-white);
+}
+
+.google-map iframe {
+  filter: grayscale(100%) invert(92%) contrast(83%);
+}
+
+.main-slider-one__bg,
+.feature-one__bg {
+  mix-blend-mode: color-burn;
+}
+
+.donate-info__area,
+.testimonials-one__bg {
+  background-blend-mode: color-burn;
+}
+
+.main-slider-one__btn .video-popup .ripple,
+.main-slider-one__btn .video-popup .ripple:before,
+.main-slider-one__btn .video-popup .ripple:after {
+  box-shadow: 0 0 0 0 rgba(var(--careox-white-rgb), 0.25);
+}
+
+.main-menu .main-menu__list li ul {
+  background-color: var(--careox-black);
+}
+
+.main-header--four .main-menu .main-menu__list > li > a,
+.main-menu .main-menu__list li ul li > a {
+  color: var(--careox-text-gray);
+}
+
+.main-menu .main-menu__list li ul li.current > a,
+.main-menu .main-menu__list li ul li:hover > a {
+  background-color: var(--careox-black2);
+  color: var(--careox-text-gray);
+}
+
+.video-two__wrapper {
+  box-shadow: 0 0 35px 10px rgba(255, 255, 255, 0.04);
+}
+
+.tab-one__content__bg {
+  background-color: var(--careox-black2);
+  opacity: 1;
+  background-blend-mode: color-burn;
+}
+
+.tab-one__list li:hover .tab-one__list__icon,
+.tab-one__list li.active-btn .tab-one__list__icon {
+  border-color: var(--careox-white);
+}
+
+.about-two__author > img {
+  filter: brightness(0) invert(1) drop-shadow(0 0 0 var(--careox-white));
+}
+
+.main-header--four.sticky-header--cloned {
+  box-shadow: 0px 3px 18px rgba(var(--careox-white-rgb, 18, 47, 42), 0.07);
+}
+/*# sourceMappingURL=careox-dark.css.map */

@@ -1,0 +1,17 @@
+@extends('website.layouts.master')
+@section('title', 'Home')
+
+@section('content')
+    @include('website.partials.slider')
+    @include('website.partials.our-aboutus')
+    @include('website.partials.mission-statement')
+    @include('website.partials.our-core-values')
+    @include('website.partials.gallery')
+    @include('website.partials.home-events')
+    @include('website.partials.our-cta')
+    @include('website.partials.our-countries')
+    @include('website.partials.donate-now')
+    @include('website.partials.our-projects')
+    @include('website.partials.our-partners')
+    @include('website.partials.cta-two')
+@endsection

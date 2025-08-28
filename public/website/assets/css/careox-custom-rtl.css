@@ -1,0 +1,45 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.contact__input-box .bootstrap-select .dropdown-menu,
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.team-card__content::after,
+.cta-one__content__shape {
+  transform: scaleX(-1);
+}
+
+.service-one__item__icon::before {
+  right: -4px;
+}
+
+.testimonials-one__bg {
+  clip-path: polygon(0 0, 100% 0, 100% 58%, 0 100%);
+}
+
+.donate-one__bg {
+  clip-path: polygon(0 42%, 100% 0, 100% 100%, 0 100%);
+}
+
+.testimonials-one__image .slick-list {
+  direction: ltr;
+}
+/*# sourceMappingURL=careox-custom-rtl.css.map */

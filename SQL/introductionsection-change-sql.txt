@@ -1,0 +1,10 @@
+-- 1. Remove the `type` column
+ALTER TABLE introduction_sections
+DROP COLUMN type;
+
+-- 2. Change the `images` column from string to nullable string (if it's not already nullable)
+-- This step is optional if the column is already defined as `nullable string`.
+
+-- 3. Add the `icon` column
+ALTER TABLE introduction_sections
+ADD COLUMN icon VARCHAR(255) NULL;
